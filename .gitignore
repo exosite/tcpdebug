@@ -1,0 +1,16 @@
+*~
+.*.sw?
+.sw?
+test-server.log
+test-client.log
+commonlib/consts.go
+vars.json
+secretshare-server.json
+secretshare-server-test.json
+install_linux.sh
+install_osx.sh
+build
+aws_creds
+docker-secretshare-server.json
+test.txt
+test_env
